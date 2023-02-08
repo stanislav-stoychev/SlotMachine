@@ -1,0 +1,34 @@
+{
+  "LineWidth": 3,
+  "NumberOfLines": 4,
+  "Symbols": [
+    {
+      "Name": "Apple",
+      "Alias": "A",
+      "Odds": 0.45,
+      "Coefficient": 0.4,
+      "IsWildcard": false
+    },
+    {
+      "Name": "Banana",
+      "Alias": "B",
+      "Odds": 0.35,
+      "Coefficient": 0.6,
+      "IsWildcard": false
+    },
+    {
+      "Name": "Pineapple",
+      "Alias": "P",
+      "Odds": 0.15,
+      "Coefficient": 0.8,
+      "IsWildcard": false
+    },
+    {
+      "Name": "Wildcard1",
+      "Alias": "*",
+      "Odds": 0.05,
+      "Coefficient": 0,
+      "IsWildcard": true
+    }
+  ]
+}
